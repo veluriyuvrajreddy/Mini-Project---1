@@ -1,1 +1,1 @@
-# Mini-Project---1
+It's a basic webpage using HTML and CSS. The main focus is on a clean design with a menu bar and an information section. The menu bar at the top will have links like Gallery, Shortcuts, Exhibits, Events, Store, Contact and Feedback. This project is a hands-on way to practice HTML and CSS, focusing on creating a responsive and visually appealing webpage.
